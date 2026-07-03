@@ -1,0 +1,18 @@
+input_row_key,input_company_name,input_country,input_city,review_note
+0,24-SEVEN MEDIA NETWORK (PRIVATE) LIMITED,PK,Karachi,Niciun candidat nu are legatura cu 24-Seven Media Network; cei mai apropiati sunt firme pakistaneze/indiene fara nicio legatura
+47,Apple South Asia (Thailand) Co Ltd,TH,Bangkok,'Asia Biogas' s-a potrivit doar pe cuvantul 'Asia'; nu e firma din Thailanda a Apple
+99,Comba Technologies Sdn. Bhd.,MY,Subang Jaya,"'Comba Telecom Inc.' (SUA) e acelasi brand global, dar probabil alta firma legal vorbind fata de filiala din Malaezia; 'OM Technologies' s-a potrivit doar pe sufixul generic 'Sdn Bhd'"
+128,Dell Corporation (Thailand) Co Ltd,TH,Yan Nawa District,"Candidatii sunt mici afaceri din Thailanda fara legatura, care contin intamplator cuvantul ""Dell""; nu e firma reala Dell"
+167,ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,PL,Dobra,"'ENETEK POWER' din Dubai are acelasi nume de brand, dar e alta firma inregistrata (Dubai vs Polonia); daca le leg gresit, cheltuielile ar aparea la tara gresita"
+228,HEWLETT-PACKARD NORGE AS,NO,Bærum,Niciunul dintre cei 5 candidati nu are legatura cu Hewlett-Packard
+308,LINKEDIN SINGAPORE PTE. LTD.,SG,Singapore,"Toti cei 5 candidati sunt grupuri de intalniri 'LinkedIn Local [Oras]', nu firma reala LinkedIn din Singapore"
+310,SCANOPTIK A/S,DK,Aalborg,'Scan. Tek. Optik' e din alt oras si pare alta firma; nu sunt sigur ca e aceeasi companie
+317,JLT Denmark A/S,DK,Lyngby-Taarbæk Municipality,'Colas Danmark' s-a potrivit doar pe sufixul generic 'Danmark A/S'; nu e JLT
+340,NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,IN,Punjabi Bagh,"'Technowell' s-a potrivit doar pe fraza generica 'Enterprise Services Private Limited'; 'Nagarro ES' e acelasi brand dar firma din alta tara - nu il leg, ca sa nu atribui gresit cheltuieli"
+408,DRAKA NORSK KABEL AS,NO,Drammen,Niciunul dintre cei 5 candidati nu are legatura cu Draka/Prysmian (cabluri)
+439,SAP DANMARK A/S,DK,Copenhagen,"'Mercedes-Benz' s-a potrivit doar pe sufixul generic 'Danmark A/S'; nu e SAP. 'SAP HANA'/'SAP Basis' sunt firme mici de consultanta fara legatura, nu filiala reala a SAP"
+500,TD SYNNEX Denmark ApS,DK,Viborg Municipality,Niciunul dintre cei 5 candidati nu are legatura cu TD SYNNEX (distribuitor IT); firma reala nu e in esantion
+553,Unit Trust Of Pakistan,PK,Saddar Town,Niciun candidat nu e o firma de investitii care sa corespunda cu inputul
+555,Ur Consult ApS,DK,Kongens Lyngby,"Exista candidati numiti 'Urconsult', dar in Suedia/Franta, nu aceeasi firma din Danemarca"
+563,VIRTUAL WORLD (PVT.) LIMITED,PK,,"'Virtualworld' e o firma din Ucraina, alta companie; 'Tracking/Tape World' s-au potrivit doar pe cuvantul generic 'World'"
+591,ZTE NORWAY AS,NO,Bærum,Niciunul dintre cei 5 candidati nu are legatura cu ZTE (echipamente telecom)
